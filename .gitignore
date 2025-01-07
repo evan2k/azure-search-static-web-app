@@ -237,3 +237,7 @@ $RECYCLE.BIN/
 
 # WPF temp projects
 *wpftmp.*
+azure-search-static-web-app.sln
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/tasks.json
